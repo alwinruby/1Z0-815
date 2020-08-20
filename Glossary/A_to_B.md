@@ -19,6 +19,15 @@
 **Array** - homogenous data structure implemented in Java as objects.  Arrays store one or more of a specific type and provide indexed access to the store.
 
 
- **Automatic variables** - Also called method local or stock variables.  Automatic variables that are declared within a method and discarded when the method has completed.
+**Automatic variables** - Also called method local or stock variables.  Automatic variables that are declared within a method and discarded when the method has completed.
 
- 
+
+**Base class** - A base is a class that has been extended.  If class D extends class B, class B is the base class of class D.
+
+
+**Blocked state** - A thread that is waiting for a resource, such as a lock, to become available
+
+
+**Boolean expression** -  An expression that results in a value of *true* or *false*,  Typically, this involves a companion (e.g. _x_ > 2) or a boolean condition such as (_x_ < 5 && y > 3), but can also involve a method with a boolean return type.
+
+**boolean primitives** - A primitive _boolean_ value can be defined only as either _true_ or _false_.
